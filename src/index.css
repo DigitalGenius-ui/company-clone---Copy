@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+a{
+    color: white;
+}
+
+ul li {
+    color: white;
+    list-style: none;
+}
+
+body{
+    scroll-behavior: smooth;
+}
+
+@keyframes popUp {
+    0%{
+        opacity: 0;
+        top : 50%;
+        left : 50%;
+        transform : translate(-50%,-30%);
+    }
+    100%{
+        opacity: 1;
+        top : 50%;
+        left : 50%;
+        transform : translate(-50%,-50%);
+    }
+}
+
+@keyframes form {
+   from {
+       opacity: 0;
+       transform: translateY(25px);
+   }
+   to{
+    opacity: 1;
+    transform: translateY(0);
+   }
+}
+
+.player-wrapper {
+    position: relative;
+    padding-top: 56.25%; /* 720 / 1280 = 0.5625 */
+}
+
+.react-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.pointer:hover{
+    opacity: 0.7;
+}
+
