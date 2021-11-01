@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/law-client/static/css/main.7bbb8362.chunk.css",
+    "main.js": "/law-client/static/js/main.d82afb97.chunk.js",
+    "main.js.map": "/law-client/static/js/main.d82afb97.chunk.js.map",
+    "runtime-main.js": "/law-client/static/js/runtime-main.20dd988d.js",
+    "runtime-main.js.map": "/law-client/static/js/runtime-main.20dd988d.js.map",
+    "static/css/2.ea0bd664.chunk.css": "/law-client/static/css/2.ea0bd664.chunk.css",
+    "static/js/2.fbbc0b39.chunk.js": "/law-client/static/js/2.fbbc0b39.chunk.js",
+    "static/js/2.fbbc0b39.chunk.js.map": "/law-client/static/js/2.fbbc0b39.chunk.js.map",
+    "index.html": "/law-client/index.html",
+    "static/css/2.ea0bd664.chunk.css.map": "/law-client/static/css/2.ea0bd664.chunk.css.map",
+    "static/css/main.7bbb8362.chunk.css.map": "/law-client/static/css/main.7bbb8362.chunk.css.map",
+    "static/js/2.fbbc0b39.chunk.js.LICENSE.txt": "/law-client/static/js/2.fbbc0b39.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/law-client/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20dd988d.js",
+    "static/css/2.ea0bd664.chunk.css",
+    "static/js/2.fbbc0b39.chunk.js",
+    "static/css/main.7bbb8362.chunk.css",
+    "static/js/main.d82afb97.chunk.js"
+  ]
+}
